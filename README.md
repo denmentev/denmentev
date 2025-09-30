@@ -16,7 +16,6 @@ I’m a Junior **Computer Science** student based in **Pennsylvania, USA**. Besi
 Email: denmentev@proton.me  
 Telegram: [t.me/denmentev](https://t.me/denmentev)  
 LinkedIn: [denmentev](https://www.linkedin.com/in/denmentev)  
-GitHub: [github.com/denmentev](https://github.com/denmentev)
 
 ## 🌱 Status
 Currently open to new opportunities, especially open to internships, as well as collaborate.
