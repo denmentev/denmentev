@@ -4,10 +4,10 @@
 I’m a Junior **Computer Science** student based in **Pennsylvania, USA**. Besides my studies, I enjoy developing projects on my free time and currently expanding my programming knownledge rapidly in this field.
 
 ## 🛠️ Tech Stack
-**Languages:** _Java, C, C++, Python_  
-**Database:** _MySQL & PostgreSQL_  
-**Web Development:** _REST APIs, HTML, CSS, JavaScript_
-**Currently Studying:** _Rust_
+**Languages:** *Java*, *C*, *C++*, *Python*  
+**Database:** *MySQL*  
+**Web Development:** *REST APIs*, *HTML*, *CSS*, *JavaScript*  
+**Learning:** *Rust*
 
 ## 🚀 Projects
 - **Minecraft Plugins** — Developing and maintaining plugins that extend game functionality and improving server management.  
